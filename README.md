@@ -2,13 +2,17 @@
 
 Backend em **TypeScript + Express + Prisma** organizado por domínio, seguindo a opção B proposta no trabalho.
 
+## Turma
+
+3ESPY
+
 ## Grupo
 
-Guilherme - 554962
-Pedro - 555556
-Fabrício - 558216
-Vitor - 554893
-Matheus - 555447
+- Guilherme - 554962
+- Pedro - 555556
+- Fabrício - 558216
+- Vitor - 554893
+- Matheus - 555447
 
 ## Visão geral
 
